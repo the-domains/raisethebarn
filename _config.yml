@@ -1,0 +1,28 @@
+name: raisethebarn
+favicon: null
+layout_spectrum: 0.8816377960611135
+typography_spectrum: 0.2990875451359898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4721559651661664
+  lightness: 0.7298692816402763
+  saturation: 0.8341666900087148
+  rhythmicContrast: 0.6670421669259667
+purpose: []
